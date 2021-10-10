@@ -419,7 +419,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineer
 - GitHub: [Astha Maheshwari](https://github.com/astha-06)
 
-
+#### Name: Afreen Parween
+- Place: Bangalore,India
+- Bio: AST
+- GitHub: [AfreenP](https://github.com/AfreenP)
 
 
 
